@@ -11,7 +11,7 @@ public class Runner
 	@Test
 	@CucumberOptions(features = "FeatureFiles",glue = {"Stepdefination"})
 	
-	public class runner extends AbstractTestNGCucumberTests{
+	public class runner{
 		
 		
 
